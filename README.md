@@ -64,9 +64,9 @@ This project runs two containers together:
 
 
 
-\* \*\*wallet\_app\*\* runs the Node.js API
+wallet_app runs the Node.js API
 
-\* \*\*wallet\_db\*\* runs the MySQL database
+wallet_db runs the MySQL database
 
 
 
