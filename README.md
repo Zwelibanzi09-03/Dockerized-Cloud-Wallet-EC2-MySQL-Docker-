@@ -1,4 +1,4 @@
-\# Dockerized Cloud Wallet
+# Dockerized Cloud Wallet
 
 
 
@@ -10,7 +10,7 @@ This project simulates a digital wallet system where users can create wallet acc
 
 
 
-\## Tech Stack
+## Tech Stack
 
 
 
@@ -30,7 +30,7 @@ This project simulates a digital wallet system where users can create wallet acc
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
@@ -56,7 +56,7 @@ dockerized-cloud-wallet/
 
 
 
-\## How It Works
+## How It Works
 
 
 
@@ -84,7 +84,7 @@ Ports used:
 
 
 
-\## Features
+## Features
 
 
 
@@ -102,7 +102,7 @@ Ports used:
 
 
 
-\## Run The Project
+## Run The Project
 
 
 
@@ -130,7 +130,7 @@ docker compose down
 
 
 
-\## API Base URL
+## API Base URL
 
 
 
@@ -142,15 +142,11 @@ http://localhost:3000
 
 
 
-\## API Endpoints
+## API Endpoints
 
 
 
-\### Create User
-
-
-
-\*\*POST\*\* `/users`
+### Create User
 
 
 
@@ -208,11 +204,7 @@ Response:
 
 
 
-\### Get Users
-
-
-
-\*\*GET\*\* `/users`
+### Get Users
 
 
 
@@ -254,11 +246,7 @@ Response:
 
 
 
-\### Deposit Funds
-
-
-
-\*\*POST\*\* `/deposit/1`
+### Deposit Funds
 
 
 
@@ -310,11 +298,7 @@ Balance changes from `500` to `700`.
 
 
 
-\### Withdraw Funds
-
-
-
-\*\*POST\*\* `/withdraw/1`
+### Withdraw Funds
 
 
 
@@ -362,7 +346,7 @@ Balance changes from `700` to `600`.
 
 
 
-\## Database Setup
+## Database Setup
 
 
 
@@ -384,11 +368,11 @@ Columns:
 
 
 
-\## Docker Setup
+## Docker Setup
 
 
 
-\### Dockerfile
+### Dockerfile
 
 
 
@@ -408,7 +392,7 @@ The app container:
 
 
 
-\### docker-compose.yml
+### docker-compose.yml
 
 
 
@@ -428,7 +412,7 @@ This file:
 
 
 
-\## Commands Used
+## Commands Used
 
 
 
@@ -450,7 +434,7 @@ docker restart wallet\_app
 
 
 
-\## Successfully Tested
+## Successfully Tested
 
 
 
@@ -472,7 +456,7 @@ docker restart wallet\_app
 
 
 
-\## Real Problems Solved
+## Real Problems Solved
 
 
 
@@ -492,7 +476,7 @@ During the project:
 
 
 
-\## Skills Demonstrated
+## Skills Demonstrated
 
 
 
@@ -516,7 +500,7 @@ During the project:
 
 
 
-\## Why This Project Matters
+## Why This Project Matters
 
 
 
@@ -524,7 +508,7 @@ This project proves practical ability to build real backend systems using contai
 
 
 
-\## Future Improvements
+## Future Improvements
 
 
 
@@ -544,19 +528,7 @@ This project proves practical ability to build real backend systems using contai
 
 
 
-\## Author
-
-
-
-Ndandise Xalisa
-
-
-
-GitHub: https://github.com/Zwelibanzi09-03
-
-
-
-\## Final Status
+## Final Status
 
 
 
